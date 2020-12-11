@@ -1,0 +1,26 @@
+{
+  "name": "git-branch-note",
+  "version": "1.0.0",
+  "description": "git branch note",
+  "bin": {
+    "git-bn": "branch-note.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idujiawei/git-branch-note.git"
+  },
+  "keywords": [
+    "git",
+    "branc",
+    "note"
+  ],
+  "author": "idujiawei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idujiawei/git-branch-note/issues"
+  },
+  "homepage": "https://github.com/idujiawei/git-branch-note#readme"
+}
